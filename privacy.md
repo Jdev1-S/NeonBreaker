@@ -2,7 +2,7 @@ Privacy Policy for Neon Breaker
 Effective Date: March 28, 2026
 
 1. Introduction
-Welcome to TNeon Breaker ("the Game"), created by Jdev1-S. This Privacy Policy explains how we handle information in connection with our mobile application. Your privacy is important to us, and this policy is designed to help you understand what data is collected, why it's collected, and what happens to it.
+Welcome to Neon Breaker ("the Game"), created by Jdev1-S. This Privacy Policy explains how we handle information in connection with our mobile application. Your privacy is important to us, and this policy is designed to help you understand what data is collected, why it's collected, and what happens to it.
 
 2. Information We Collect
 We do not directly collect any personally identifiable information from you. The Game is designed to be played without requiring you to submit personal data such as your name, email address, or physical address.
